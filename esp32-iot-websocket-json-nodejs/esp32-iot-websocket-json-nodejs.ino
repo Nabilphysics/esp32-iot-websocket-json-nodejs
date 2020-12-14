@@ -17,7 +17,7 @@ String data = "";
 char path[] = "/";   //identifier of this device
 const char* ssid     = "HACKED";
 const char* password = "python123456";
-char* host = "192.168.0.108";  //replace this ip address with the ip address of your Node.Js server
+char* host = "192.168.0.104";  //replace this ip address with the ip address of your Node.Js server
 const int espport = 3000;
 int readPin;
 
