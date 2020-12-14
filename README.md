@@ -5,3 +5,5 @@
  </br>  EPS8266 Websocket Library: https://github.com/morrissinger/ESP8266-Websocket
  </br>  ESP8266 Websocket to ESP32 Websocket Library Conversion: https://techtutorialsx.com/2017/11/01/esp32-arduino-websocket-client/
  </br> Rewritten with JSON Intigration: Syed Razwanul Haque(Nabil) , https://www.github.com/Nabilphysics
+ </br>
+ </br> Nodejs Installation: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment
